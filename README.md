@@ -7,4 +7,4 @@ Hello!! Universifight is a PyGame RPG game, heavily based on the game "Darkest D
 The game was created from a starter ["Final Fantasy" PyGame code found in YouTube](https://www.youtube.com/watch?v=Vlolidaoiak&list=PLjcN1EyupaQnvpv61iriF8Ax9dKra-MhZ). All the assets in the game including **character sprites, enemies, face icons, camp, final ending screen, icons** (except from the potion, sword icon and the chest assets), where made by me with IbisPaintX!!
 
 # How to Play!!
-You may find everything, including the exe, PyGame files and assets in the ["Google Drive "Universifight"](https://drive.google.com/drive/folders/12iLM6Y0XQbUaQ7XBLmjhg4ev2c2jNcqD?usp=sharing)!
+You may find everything, including the exe, PyGame files and assets in the ["Google Drive "Universifight"](https://drive.google.com/drive/folders/1jrq4Gv97VTRP-0pL3H96ngmLJ3ejAPxA?usp=sharing)!
