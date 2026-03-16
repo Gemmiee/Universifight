@@ -200,7 +200,7 @@ cd Universifight
 Run the game:
 
 ```bash
-python universifight.py
+python Universifight.py
 ```
 
 ---
