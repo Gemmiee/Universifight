@@ -6,9 +6,6 @@ Hello!! Universifight is a PyGame RPG game, heavily based on the game "Darkest D
 
 The game was created from a starter ["Final Fantasy" PyGame code found in YouTube](https://www.youtube.com/watch?v=Vlolidaoiak&list=PLjcN1EyupaQnvpv61iriF8Ax9dKra-MhZ). All the assets in the game including **character sprites, enemies, face icons, camp, final ending screen, icons** (except from the potion, sword icon and the chest assets), where made by me with IbisPaintX!!
 
-# How to Play!!
-You may find everything, including the exe, PyGame files and assets in the ["Google Drive "Universifight"](https://drive.google.com/drive/folders/1jrq4Gv97VTRP-0pL3H96ngmLJ3ejAPxA?usp=sharing)!
-
 
 
 
@@ -24,13 +21,19 @@ The game combines **story scenes, exploration, and combat mechanics** into a mod
 
 ---
 
-# Game Theme
+# ✨ How to Play!!
+
+[Download the **exe file** from "Releases"](https://github.com/Gemmiee/Universifight/releases/tag/Universifight_exe_file), unzip it and run the "Universifight.exe" inside the unzipped folder.
+
+---
+
+# 🖼️ Game Theme
 
 The lore of Universifight is based off the daily academic life of a university student, specifically the exams season, but turned into a fantasy story. Thus, the 'obstacles' of the game include academic themed rivals but more medieval and fantasy themed, like magic books and classes turned into anthropomorphic horrors due to academic stress. Each boss is supposed to represent a university exam, where the four heroes fight through in order to 'defeat' the class (and pass it). The message that the game wants to promote is for students to fight through their exams, even as they appear stressful, and learn in the end that they shall come out victorious just like the four heroes in the game.
 
 ---
 
-# Game Screenshots
+# 📸 Game Screenshots
 ![Sample 1](screenshots/universifight1.png)
 ![Sample 2](screenshots/universifight4.png)
 ![Sample 3](screenshots/universifight6.png)
