@@ -28,6 +28,15 @@ The game combines **story scenes, exploration, and combat mechanics** into a mod
 
 The lore of Universifight is based off the daily academic life of a university student, specifically the exams season, but turned into a fantasy story. Thus, the 'obstacles' of the game include academic themed rivals but more medieval and fantasy themed, like magic books and classes turned into anthropomorphic horrors due to academic stress. Each boss is supposed to represent a university exam, where the four heroes fight through in order to 'defeat' the class (and pass it). The message that the game wants to promote is for students to fight through their exams, even as they appear stressful, and learn in the end that they shall come out victorious just like the four heroes in the game.
 
+---
+
+# Game Screenshots
+![Sample 1](screenshots/universifight1.png)
+![Sample 2](screenshots/universifight4.png)
+![Sample 3](screenshots/universifight6.png)
+
+---
+
 # 🧭 Game Overview
 
 In UniversiFight, players guide a party of heroes through multiple stages of encounters:
