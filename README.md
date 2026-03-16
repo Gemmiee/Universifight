@@ -1,17 +1,3 @@
-# Universifight
-A dungeon crawler game that me and another 3 people made as a university project for "Ionio University" as 1st year students for computer programming
-----
-
-Hello!! Universifight is a PyGame RPG game, heavily based on the game "Darkest Dungeon" and features turn-based combat as well as a medieval theme and story. Music is taken by "Skyrim" as well as some other creators while most backgrounds in the game where taken from the internet and Darkest Dungeon.
-
-The game was created from a starter ["Final Fantasy" PyGame code found in YouTube](https://www.youtube.com/watch?v=Vlolidaoiak&list=PLjcN1EyupaQnvpv61iriF8Ax9dKra-MhZ). All the assets in the game including **character sprites, enemies, face icons, camp, final ending screen, icons** (except from the potion, sword icon and the chest assets), where made by me with IbisPaintX!!
-
-
-
-
-
-
-
 # 🎮 UniversiFight
 
 **UniversiFight** is a 2D turn-based RPG battle game built with **Python** and **Pygame**.
@@ -88,12 +74,6 @@ Combat is **turn-based** and includes:
 * Character death and animations
 * Randomized attack damage
 
-Damage is calculated using:
-
-```
-damage = strength + random(-5, 5)
-```
-
 If stress reaches **100**, attack power is reduced.
 
 ---
@@ -102,9 +82,9 @@ If stress reaches **100**, attack power is reduced.
 
 The game features themed boss encounters:
 
-* ⚙️ Engineering Boss
-* ➗ Mathematics Boss
-* 🧬 Biology Boss
+* ⚙️ Brassan, the Engineering God
+* ➗ Calxen, the Geometer
+* 🧬 Helixor, the Blasphemer Biologist
 
 Each boss represents the final challenge of a stage.
 
@@ -173,7 +153,7 @@ This modular design allows new events or encounters to be easily added.
 
 # 🎨 Features
 
-* 🎭 Animated characters and enemies
+* 🎭 Animated characters and enemies (handmade, guess by who :D)
 * ⚔️ Turn-based combat system
 * 🎵 Dynamic background music with theme switching
 * 🧠 Stress mechanic affecting combat performance
@@ -240,41 +220,15 @@ Music transitions use **crossfading** for smooth switching.
 
 ---
 
-# 🧑‍💻 Development Notes
-
-The game uses a **modular architecture** where:
-
-* Characters are instances of the `Fighter` class
-* Scenes are independent functions
-* The main loop orchestrates game progression
-* Animations are loaded dynamically from sprite folders
-
-This makes the project easy to extend with:
-
-* New enemies
-* New scenes
-* New characters
-* Additional mechanics
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-Possible improvements:
-
-* More bosses
-* New playable characters
-* Improved UI
-* Save system
-* More story content
-
----
-
 # 📜 License
 
-This project is released under the **MIT License**.
+No license.
+
+## References
+
+* Game mechanics and backgrounds are heavily based on "Darkest Dungeon".
+* Music taken from "Skyrim" as well as some other creators.
+* The game was created from a starter ["Final Fantasy" PyGame code found in YouTube](https://www.youtube.com/watch?v=Vlolidaoiak&list=PLjcN1EyupaQnvpv61iriF8Ax9dKra-MhZ). All the assets in the game including **character sprites, enemies, face icons, camp, final ending screen, icons** (except from the potion, sword icon and the chest assets), where made by Gemmie with IbisPaintX.
 
 ---
 
