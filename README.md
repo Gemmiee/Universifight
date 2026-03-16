@@ -13,11 +13,7 @@ You may find everything, including the exe, PyGame files and assets in the ["Goo
 
 
 
-Since you showed the **actual main file**, I can now write a **much more accurate README** that explains what the project really is and how it works. I tailored it specifically for your code structure, scenes system, and the `universifight.py` entry point.
 
-You can paste this directly into `README.md`.
-
----
 
 # 🎮 UniversiFight
 
@@ -273,13 +269,4 @@ This project is released under the **MIT License**.
 # 👤 Author
 
 Developed by **Gemmiee**
-
----
-
-💡 If you'd like, I can also improve the README further by adding:
-
-* **GitHub badges (stars, Python version, license)**
-* **Screenshots section for the game**
-* **A GIF gameplay preview (this massively improves GitHub projects)**
-* **A cleaner "portfolio-style" README that looks like professional game repos.**
 
