@@ -234,5 +234,5 @@ No license.
 
 # 👤 Author
 
-Developed by **Gemmiee**
+Developed by **Gemmiee**, **ledapap** and **vasiliss0billyy0**.
 
