@@ -1,4 +1,4 @@
-# 🎮 UniversiFight
+# 🎮 UniversibomboclatFight 
 
 **UniversiFight** is a 2D turn-based RPG battle game built with **Python** and **Pygame**.
 Players control a party of heroes fighting through different stages, battling monsters, defeating bosses and managing resources like health, potions, and stress.
