@@ -232,7 +232,9 @@ No license.
 
 ---
 
-# 👤 Author
+# 👤 Authors
 
-Developed by **Gemmiee**, **ledapap** and **vasiliss0billyy0**.
+- Tsea Anastasia (@Gemmiee)
+- Papakyriazh Leda (@ledapap)
+- Vagianos Vasilis (@vasiliss0billyy0)
 
