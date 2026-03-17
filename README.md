@@ -235,6 +235,6 @@ No license.
 # 👤 Authors
 
 - Tsea Anastasia (@Gemmiee)
-- Papakyriazh Leda (@ledapap)
+- Papakiriazi Leda (@ledapap)
 - Vagianos Vasilis (@vasiliss0billyy0)
 
