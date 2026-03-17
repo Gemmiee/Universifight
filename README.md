@@ -7,7 +7,7 @@ The game combines **story scenes, exploration, and combat mechanics** into a mod
 
 ---
 
-# ✨ How to Play!!
+# ✨ How to Play!!!
 
 [Download the **exe file** from "Releases"](https://github.com/Gemmiee/Universifight/releases/tag/Universifight_exe_file), unzip it and run the "Universifight.exe" inside the unzipped folder.
 
